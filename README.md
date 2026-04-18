@@ -27,7 +27,7 @@ This project presents a Power BI dashboard analyzing D-Mart sales data to uncove
 - Dashboard screenshots
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ## 🚀 Conclusion
 The dashboard helps businesses make data-driven decisions by highlighting key sales drivers and trends.
